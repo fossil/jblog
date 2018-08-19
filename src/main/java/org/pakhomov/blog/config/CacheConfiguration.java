@@ -38,6 +38,7 @@ public class CacheConfiguration {
             cm.createCache(org.pakhomov.blog.domain.User.class.getName(), jcacheConfiguration);
             cm.createCache(org.pakhomov.blog.domain.Authority.class.getName(), jcacheConfiguration);
             cm.createCache(org.pakhomov.blog.domain.User.class.getName() + ".authorities", jcacheConfiguration);
+            cm.createCache(org.pakhomov.blog.domain.Post.class.getName(), jcacheConfiguration);
             // jhipster-needle-ehcache-add-entry
         };
     }

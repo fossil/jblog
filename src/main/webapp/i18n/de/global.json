@@ -7,6 +7,7 @@
             "jhipster-needle-menu-add-element": "JHipster will add additional menu entries here (do not translate!)",
             "entities": {
                 "main": "Entitäten",
+                "post": "Post",
                 "jhipster-needle-menu-add-entry": "JHipster will add additional entities here (do not translate!)"
             },
             "account": {
@@ -131,5 +132,5 @@
         "idexists": "Ein neuer {{entityName}} kann noch keine ID haben",
         "idnull": "Invalid ID"
     },
-    "footer": "Dies ist Ihre Fußzeile"
+    "footer": "Ein Blog, der JHipster gewidmet ist!"
 }

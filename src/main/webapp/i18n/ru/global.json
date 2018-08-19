@@ -7,6 +7,7 @@
             "jhipster-needle-menu-add-element": "JHipster will add additional menu entries here (do not translate!)",
             "entities": {
                 "main": "Сущности",
+                "post": "Post",
                 "jhipster-needle-menu-add-entry": "JHipster will add additional entities here (do not translate!)"
             },
             "account": {
@@ -131,5 +132,5 @@
         "idexists": "Новый {{entityName}} не может иметь данный ID",
         "idnull": "Неверный ID"
     },
-    "footer": "Это ваш футтер"
+    "footer": "Блог, посвященный Жава Хипстеру!"
 }
